@@ -1,2 +1,2 @@
-# Shedule
+# Schedule
 График рабочего времени, Excel...
